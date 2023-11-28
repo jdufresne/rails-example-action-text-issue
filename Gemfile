@@ -69,3 +69,5 @@ end
 gem "bootstrap_form", "~> 5.4"
 
 gem "rails_admin", "~> 3.1"
+
+gem "sassc-rails", "~> 2.1"
