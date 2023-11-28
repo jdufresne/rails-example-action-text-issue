@@ -67,3 +67,5 @@ group :test do
 end
 
 gem "bootstrap_form", "~> 5.4"
+
+gem "rails_admin", "~> 3.1"
